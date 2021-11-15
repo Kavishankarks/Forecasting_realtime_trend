@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run forecasting_future_trend.py
